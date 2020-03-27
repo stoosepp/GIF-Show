@@ -14,6 +14,7 @@ App to create GIFs for demoing software.
 ## Author
 
 Stoo Sepp 
+
 Original Authorship: Khoa Pham, onmyway133@gmail.com
 
 ## License
