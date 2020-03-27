@@ -13,10 +13,13 @@ App to create GIFs for demoing software.
 
 ## Author
 
-Stoo Sepp
+Stoo Sepp 
+Original Authorship: Khoa Pham, onmyway133@gmail.com
 
 ## License
 
 This capture app based on the below:
+
+**GifCapture**": https://github.com/onmyway133/GifCapt
 
 **GifCapture** is available under the MIT license. See the [LICENSE](https://github.com/onmyway133/GifCapture/blob/master/LICENSE.md) file for more info.
